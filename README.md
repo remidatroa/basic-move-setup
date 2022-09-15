@@ -1,2 +1,3 @@
 # basic-move-setup
- init c#
+ init c# 
+ link setup done
