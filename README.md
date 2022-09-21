@@ -1,3 +1,5 @@
 # basic-move-setup
  init c# 
- link setup done
+
+Unity 3d training 
+1> AR MXR WEBVR GAMING INTERACTIVE INSTALLATION
